@@ -4,7 +4,7 @@ This repository contains the privacy policy for the WeebCentral Manga Downloader
 
 ## 🌐 Live Site
 
-The privacy policy is available at: **https://[your-username].github.io/weebcentraldownloader-privacy-policy/**
+The privacy policy is available at: **https://sahilkuware.github.io/weebcentraldownloader-privacy-policy/**
 
 ## 📄 Privacy Policy
 
