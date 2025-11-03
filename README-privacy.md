@@ -26,7 +26,7 @@ No personal information, browsing history, or other sensitive data is collected.
 
 ## Contact
 
-For privacy-related questions, please contact: [Your email address]
+For privacy-related questions, please contact: [sahilkuware146@gmail.com]
 
 ## License
 
